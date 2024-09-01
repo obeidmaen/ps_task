@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "91286070613",
+    "project_id": "maenobeid-progresssoftapp",
+    "storage_bucket": "maenobeid-progresssoftapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91286070613:android:d47c186301d60cfdc7fbdc",
+        "android_client_info": {
+          "package_name": "com.progresssoft.posts.progress_soft_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91286070613-va56ivnid0kssmih572m7k3r0506cnte.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.progresssoft.posts.progress_soft_app",
+            "certificate_hash": "2ff3f1a7427fd9403755038219a2c6a441165a56"
+          }
+        },
+        {
+          "client_id": "91286070613-mk1if6ba6gjiuo1f80tm1uh7os4nc0m9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMUk4peLBkK7m72RxLd0zHhSKaMSZhaA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91286070613-mk1if6ba6gjiuo1f80tm1uh7os4nc0m9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "91286070613-2fp2hcv3cnf3il8trc6fn0k1lt4dle12.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.progresssoft.posts.progressSoftApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

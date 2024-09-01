@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>91286070613-2fp2hcv3cnf3il8trc6fn0k1lt4dle12.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.91286070613-2fp2hcv3cnf3il8trc6fn0k1lt4dle12</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>91286070613-va56ivnid0kssmih572m7k3r0506cnte.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyASEwOJQUi9w_esQkaQ_vdPtOwf7JKhTbo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>91286070613</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.progresssoft.posts.progressSoftApp</string>
+	<key>PROJECT_ID</key>
+	<string>maenobeid-progresssoftapp</string>
+	<key>STORAGE_BUCKET</key>
+	<string>maenobeid-progresssoftapp.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:91286070613:ios:7027bba41001ab09c7fbdc</string>
+</dict>
+</plist>
